@@ -1,0 +1,74 @@
+[
+{
+    "titulo": "La morada del diablo",
+    "anio": 1896,
+    "director": "Melies",
+    "afiche": "./media/manoir-melies-1896.jpg"
+},
+{
+    "titulo": "Las cuatrocientas farsas del diablo",
+    "anio": 1906,
+    "director": "Melies",
+    "afiche": "./media/farces-diable-melies-1906.jpg"
+},
+{
+    "titulo": "El estudiante de Praga",
+    "anio": 1913,
+    "director": "Rye",
+    "afiche": "./media/rye-prag-1913.jpg"
+},
+{
+    "titulo": "El Golem",
+    "anio": 1914,
+    "director": "Wegener",
+    "afiche": "./media/der-golem-1914.jpg"
+},
+{
+    "titulo": "Los vampiros",
+    "anio": 1915,
+    "director": "Feuillade",
+    "afiche": "./media/les-vampires-1915.jpg"
+},
+{
+    "titulo": "El gabinete del Dr. Caligari",
+    "anio": 1920,
+    "director": "Wiene",
+    "afiche": "./media/cabinet-caligari-1920.jpg"
+},
+{
+    "titulo": "Dr. Jekyll y Mr. Hyde",
+    "anio": 1920,
+    "director": "Robertson",
+    "afiche": "./media/dr-jekyll-1920.jpg"
+},
+{
+    "titulo": "La carreta fantasma",
+    "anio": 1921,
+    "director": "Sjostrom",
+    "afiche": "./media/korkarlen-1921.jpg"
+},
+{
+    "titulo": "Páginas del diario de Satán",
+    "anio": 1921,
+    "director": "Dreyer",
+    "afiche": "./media/satans-dreyer-1921.jpg"
+},
+{
+    "titulo": "Haxan",
+    "anio": 1921,
+    "director": "Christensen",
+    "afiche": "./media/haxan-1921.jpg"
+},
+{
+    "titulo": "Doctor Mabuse",
+    "anio": 1922,
+    "director": "Lang",
+    "afiche": "./media/dr-mabuse-1922.jpg"
+},
+{
+    "titulo": "Nosferatu, el vampiro",
+    "anio": 1922,
+    "director": "Murnau",
+    "afiche": "./media/nosferatu-1922.jpg"
+}
+]
